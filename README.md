@@ -23,10 +23,8 @@ Hello! I'm Juan David Ramirez Monje, a passionate software developer with experi
   - SQL (PostgreSQL, MySQL)
 
 - **DevOps and Cloud:**
-  - AWS (EC2, S3, Lambda, RDS, CloudFront)
-  - Docker
+  - AWS (S3, Lambda, Glue, CloudFront)
   - CI/CD (GitHub Actions, Jenkins)
-  - Terraform
 
 - **Mobile Development:**
   - React Native
