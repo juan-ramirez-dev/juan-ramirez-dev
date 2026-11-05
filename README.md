@@ -2,7 +2,7 @@
 
 **Senior Full Stack Developer. Fintech, payments and AI-assisted development.**
 
-I build complete products: frontend, mobile, backend, data, payments and the pipeline that ships them. Based in Bogotá, Colombia. Open to remote Full Stack and AI-augmented developer roles.
+I build complete products: frontend, mobile, backend, data, payments and the pipeline that ships them. Based in Bogotá, Colombia. I work in English every day with English-speaking teams and clients. Open to remote Full Stack and AI-augmented developer roles.
 
 [Portfolio](https://juan-ramirez-dev.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/jdrmpj/) · [Email](mailto:rjuandavid1002@gmail.com)
 
